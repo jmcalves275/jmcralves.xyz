@@ -1,0 +1,32 @@
+.heading-primary {
+    color: $color-white;
+    
+    &--main {
+        color: $color-red;
+        text-decoration: none;
+        font-size: 6rem;
+        display: block;
+        letter-spacing: 2.5rem;
+        margin-bottom: 4rem;
+    
+        animation-name: fall;
+        animation-duration: 1s;
+        animation-timing-function: ease-in;
+        animation-timing-function: steps(5, end);
+        animation-delay: 1s;
+        animation-fill-mode: backwards;
+    }
+
+    &--sub {
+        color: $color-orange;
+        text-transform: uppercase;
+        display: block;
+        font-size: 2rem;
+        font-weight: 700;
+        letter-spacing: 1.75rem;
+    
+        animation-name: moveInRight;
+        animation-duration: 2s;
+        animation-timing-function: steps(5, end);
+    }
+}
