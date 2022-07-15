@@ -5,52 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66eeb340-7d36-4d22-a2fc-e0cb3d10e88c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jmcralves.xyz.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archetypes/default.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/home/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/sass/sass/style.sass_7642ba43b3212fd7d7ba324df3b88b0c.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/sass/sass/style.sass_7642ba43b3212fd7d7ba324df3b88b0c.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/home/profile_hu3d03a01dcc18bc5be0e67db3d8d209a6_16363_320x0_resize_q75_box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/projects/design/plant_hu3d03a01dcc18bc5be0e67db3d8d209a6_34602_1000x0_resize_q75_box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/projects/design/plant_hu3d03a01dcc18bc5be0e67db3d8d209a6_34602_302x0_resize_q75_box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/projects/design/plant_hu3d03a01dcc18bc5be0e67db3d8d209a6_34602_640x0_resize_q75_box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/projects/photography/camera_hu3d03a01dcc18bc5be0e67db3d8d209a6_30380_1000x0_resize_q75_box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/projects/photography/camera_hu3d03a01dcc18bc5be0e67db3d8d209a6_30380_302x0_resize_q75_box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/projects/photography/camera_hu3d03a01dcc18bc5be0e67db3d8d209a6_30380_640x0_resize_q75_box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/projects/photography/erik-jan-leusink-180382-unsplash_hu3d03a01dcc18bc5be0e67db3d8d209a6_82088_1000x0_resize_q75_box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/projects/photography/erik-jan-leusink-180382-unsplash_hu3d03a01dcc18bc5be0e67db3d8d209a6_82088_640x0_resize_q75_box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/projects/photography/lorene-farrugia-JpmC-tAHiVA-unsplash_hu5e0d05c41608c807d4e7962ffe4f3978_970605_1000x0_resize_q75_box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/projects/photography/lorene-farrugia-JpmC-tAHiVA-unsplash_hu5e0d05c41608c807d4e7962ffe4f3978_970605_640x0_resize_q75_box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/projects/photography/mario-ho-277298-unsplash_hu3d03a01dcc18bc5be0e67db3d8d209a6_19450_1000x0_resize_q75_box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/projects/photography/mario-ho-277298-unsplash_hu3d03a01dcc18bc5be0e67db3d8d209a6_19450_640x0_resize_q75_box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/projects/photography/tyler-lastovich-285380-unsplash_hu3d03a01dcc18bc5be0e67db3d8d209a6_20716_1000x0_resize_q75_box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/projects/photography/tyler-lastovich-285380-unsplash_hu3d03a01dcc18bc5be0e67db3d8d209a6_20716_640x0_resize_q75_box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/projects/writing/workday_hu3d03a01dcc18bc5be0e67db3d8d209a6_59645_1000x0_resize_q75_box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/projects/writing/workday_hu3d03a01dcc18bc5be0e67db3d8d209a6_59645_302x0_resize_q75_box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/projects/writing/workday_hu3d03a01dcc18bc5be0e67db3d8d209a6_59645_640x0_resize_q75_box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/introduction" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/abstracts/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/abstracts/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/base/_animations.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/base/_base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/base/_typography.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/base/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/.hugo_build.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/layout/_grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/layout/_header.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/pages/_home.scss" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/gh-pages.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/introduction" beforeDir="false" afterPath="$PROJECT_DIR$/themes/introduction" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/introduction/exampleSite/content/en/home/lorem.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/introduction/exampleSite/content/en/home/lorem.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/introduction/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/introduction/layouts/index.html" afterDir="false" />
     </list>
