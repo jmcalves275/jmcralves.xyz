@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66eeb340-7d36-4d22-a2fc-e0cb3d10e88c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/themes/introduction" beforeDir="false" afterPath="$PROJECT_DIR$/themes/introduction" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/introduction/exampleSite/content/en/home/lorem.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/introduction/exampleSite/content/en/home/lorem.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/introduction/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/introduction/layouts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/gh-pages.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/gh-pages.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
